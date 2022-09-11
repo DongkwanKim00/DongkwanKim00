@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm not good at coding, but I'll work hard.
+
 <!--
 **DongkwanKim00/DongkwanKim00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
