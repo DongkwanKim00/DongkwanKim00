@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Dongkwan's%20GITHUB&fontAlignY=50
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Dongkwan's%20GITHUB&fontAlignY=50)
 
 **Contact**: <a href="https://velog.io/@dongkwan00/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white&link=https://velog.io/@dongkwan00/posts"/></a>
 <img src="https://img.shields.io/badge/dkkim_it@naver.com-03C75A?style=plastic&logo=Notion&logoColor=white">
